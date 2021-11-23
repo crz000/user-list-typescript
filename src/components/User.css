@@ -1,0 +1,24 @@
+.row{
+    display: flex;
+    align-items: baseline;
+}
+
+.row h2{
+    margin: 0;
+    margin-right: .75rem;
+}
+
+.row p{
+    margin: .75rem;
+}
+
+.deleteBtn{
+    background-color: #28a742;
+    color: white;
+    padding: .75rem 1rem;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: .75rem;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
